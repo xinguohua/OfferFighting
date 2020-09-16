@@ -40,13 +40,23 @@
 # 1 月
 * 投简历
 
-#每日计划
-* 论文：明天把老师提的要求改掉
-* 每日一题
+#今日计划
+
+
+
 
 
 #明日计划
-* 论文：明天把老师提的要求改掉
-* 树及搜索的Java实现
-* 看二叉树
-* 每日一题
+* 论文：Introduction RelatedWork
+* 看书二叉树代码解析
+* https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/solution/mian-shi-ti-05-ti-huan-kong-ge-by-leetcode-solutio/  String题多种题解
+* String总结，String的API字符串数组 StringBuilder StringBuffer
+* ArrayList排序
+* 数组总结 数组和List之间的转换关系
+* 剑指offer刷题
+
+
+
+===============
+数据结构 代码 看视频
+剑指offer 刷题 解析
