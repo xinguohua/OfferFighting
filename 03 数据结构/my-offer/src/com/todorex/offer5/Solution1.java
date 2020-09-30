@@ -20,15 +20,20 @@ public class Solution1 {
             return null;
         }
         int oldLength = str.length();
-        // 扩展StringBuffer
+        // 扩展StringBuffer 统计空格的数量 如果遇到空格 增加两个空字符
         for (int i = 0; i < oldLength; i++) {
             if (str.charAt(i) == ' ') {
                 str.append("  ");
             }
         }
         int newLength = str.length();
+        //p1 指向原字符串尾部元素
         int p1 = oldLength - 1;
+
+        //p2 指向新字符串尾部元素
         int p2 = newLength - 1;
+
+        //当两个 指针相遇时 说明所有空格字符都添加完了
         while (p1 != p2) {
             if (str.charAt(p1) == ' ') {
                 str.setCharAt(p2--, '0');
