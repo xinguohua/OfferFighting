@@ -24,8 +24,13 @@ public class Solution1 {
             ListNode next = toBeDeleted.next;
             toBeDeleted.val = next.val;
             toBeDeleted.next = next.next;
-            toBeDeleted.next = null;
-        } else {
+            next.next = null;
+        }else if (head==toBeDeleted){
+            //要删除的节点是头结点（同时也是尾节点）
+            head=null;
+            toBeDeleted=null;
+        }
+        else {
             // 要删除的节点是尾节点(只能遍历)
             ListNode current = head;
             while (current.next != toBeDeleted) {

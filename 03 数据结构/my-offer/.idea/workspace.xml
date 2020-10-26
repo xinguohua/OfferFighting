@@ -10,38 +10,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my-offer" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="AVLNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLNode.java">
+      <file leaf-file-name="Solution5548.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/todorex/week212/Solution5548.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AVLTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4510">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="22">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/Tree.java">
+      <file leaf-file-name="LeetcodeSolution1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/todorex/offer12/LeetcodeSolution1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetcodeSolution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/todorex/offer13/LeetcodeSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="5" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -68,6 +66,8 @@
       <find>add</find>
       <find>到</find>
       <find>Exception</find>
+      <find>soreList</find>
+      <find>DFS</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -78,57 +78,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section322/TestSelfList.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section322/SelfList.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section322/ListInterface.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section323/Node.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section323/SingleLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section323/SingleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section323/MyLink.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section333/expression.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section332/IStack.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section332/SeqStack.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section332/StackNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section332/test.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section332/LinkStack.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/Queue.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer3/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer3/SolutionBest.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/SeqQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/LinkedQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/Node.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer4/MySolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/MySolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer6/MySolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section412/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer4/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/LeetCodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section433/BinaryNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/Tree.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/BinaryNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/JavaGuide/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/JavaGuide/StudentComparator.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/JavaGuide/ListSortDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/JavaGuide/Person.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/LeetcodeSolutionB.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/OfferSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer5/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer7/XinSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer9/XinSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer9/CQueue.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer6/reverse.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer6/XinSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer6/reverseDigui.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/offer7/leetcodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/BinaryNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/Tree.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/BinaryNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLNode.java" />
-        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/Tree.java" />
         <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter29/Event.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/vediocode/chapter13/SimpleThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/vediocode/chapter02/TaxCalculator.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/vediocode02/chapter12/BalkingData.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/TestService.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/ActiveFuture.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/ActiveMessage.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/ActiveObjectTest.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/ActiveServiceFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/general_active_object/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/dataStructure/section4/section45/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/concurrency/chapter27/simple_acitve_object/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer10/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer10/XinSolution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer10/XinSolution10b.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer11/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer11/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer11/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer11/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer11/XinQuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer12/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer13/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer12/LeetcodeSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer12/LeetcodeSolution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer13/LeetcodeSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer13/LeetcodeSolution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer15/test.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer15/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week210/Solution5335.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week210/Solution5536.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer14/SolutionDongtai.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer14/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer16/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer17/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer18/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer20/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer22/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer24/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer25/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer25/XinSolution.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer17/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer17/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/offer18/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week211/Solution5543.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week211/Solution5545.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week211/Solution5544.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week212/Solution5546.java" />
+        <option value="$PROJECT_DIR$/src/com/todorex/week212/Solution5548.java" />
       </list>
     </option>
   </component>
@@ -152,8 +152,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal   -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-60" />
-    <option name="y" value="27" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
@@ -172,6 +172,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -196,45 +198,13 @@
               <item name="my-offer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="todorex" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="todorex" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="section4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="todorex" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="section4" type="462c0819:PsiDirectoryNode" />
-              <item name="section44" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-offer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="todorex" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="section4" type="462c0819:PsiDirectoryNode" />
-              <item name="section45" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="week212" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,7 +215,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="SearchEverywhereHistoryKey" value="Lin&#9;FILE&#9;jar://D:/jdk8/jdk/src.zip!/java/util/LinkedList.java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../datastructure_code" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -255,9 +225,11 @@
       <recent name="com.todorex.offer3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\银行\OfferFighting\03 数据结构\my-offer\src\com\todorex\concurrency\vediocode02" />
+      <recent name="D:\银行\OfferFighting\03 数据结构\my-offer\src\com\todorex\concurrency\vediocode" />
+      <recent name="D:\银行\OfferFighting\03 数据结构\my-offer\src\com\todorex\concurrency" />
       <recent name="D:\银行\OfferFighting\03 数据结构\my-offer\src\com\todorex\dataStructure\section4\section45" />
       <recent name="D:\银行\OfferFighting\03 数据结构\my-offer\src\com\todorex\dataStructure\section4\section44" />
-      <recent name="D:\银行\Coding-Interviews-master\Coding-Interviews-master\my-offer\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,15 +244,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AVLTree">
-    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution5548">
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.todorex.dataStructure.section4.section45.*" />
+          <option name="PATTERN" value="com.todorex.offer17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.todorex.dataStructure.section4.section45.AVLTree" />
+      <option name="MAIN_CLASS_NAME" value="com.todorex.offer17.Solution2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -292,14 +264,14 @@
       <module name="my-offer" />
       <envs />
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution5335" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.todorex.JavaGuide.*" />
+          <option name="PATTERN" value="com.todorex.week210.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.todorex.JavaGuide.Person" />
+      <option name="MAIN_CLASS_NAME" value="com.todorex.week210.Solution5335" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -311,14 +283,14 @@
       <module name="my-offer" />
       <envs />
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution5544" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.todorex.offer5.*" />
+          <option name="PATTERN" value="com.todorex.week211.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.todorex.offer5.Solution1" />
+      <option name="MAIN_CLASS_NAME" value="com.todorex.week211.Solution5544" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -330,14 +302,14 @@
       <module name="my-offer" />
       <envs />
     </configuration>
-    <configuration name="XinSolution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution5546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.todorex.offer7.*" />
+          <option name="PATTERN" value="com.todorex.week212.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.todorex.offer7.XinSolution" />
+      <option name="MAIN_CLASS_NAME" value="com.todorex.week212.Solution5546" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -349,14 +321,14 @@
       <module name="my-offer" />
       <envs />
     </configuration>
-    <configuration name="XinSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution5548" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.todorex.offer6.*" />
+          <option name="PATTERN" value="com.todorex.week212.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.todorex.offer6.XinSolution" />
+      <option name="MAIN_CLASS_NAME" value="com.todorex.week212.Solution5548" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -450,19 +422,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Person" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Solution1" />
-      <item index="2" class="java.lang.String" itemvalue="Application.XinSolution" />
-      <item index="3" class="java.lang.String" itemvalue="Application.XinSolution (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AVLTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution5335" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution5544" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution5546" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution5548" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AVLTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.XinSolution (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.XinSolution" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Solution1" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Person" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution5548" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution5546" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution5544" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution5335" />
       </list>
     </recent_temporary>
   </component>
@@ -507,6 +479,30 @@
       <workItem from="1601377089991" duration="4980000" />
       <workItem from="1601425671163" duration="14497000" />
       <workItem from="1601462274121" duration="1796000" />
+      <workItem from="1601623076391" duration="3226000" />
+      <workItem from="1601626440361" duration="1517000" />
+      <workItem from="1601892299466" duration="10277000" />
+      <workItem from="1601970248850" duration="631000" />
+      <workItem from="1602047927481" duration="5101000" />
+      <workItem from="1602053393487" duration="9680000" />
+      <workItem from="1602080547177" duration="2227000" />
+      <workItem from="1602117015541" duration="6147000" />
+      <workItem from="1602123944330" duration="14000" />
+      <workItem from="1602207283302" duration="16297000" />
+      <workItem from="1602295129046" duration="2411000" />
+      <workItem from="1602307208744" duration="3121000" />
+      <workItem from="1602383476419" duration="5534000" />
+      <workItem from="1602463728056" duration="1424000" />
+      <workItem from="1602471903754" duration="7131000" />
+      <workItem from="1602548712306" duration="27000" />
+      <workItem from="1602567679669" duration="5947000" />
+      <workItem from="1602637172953" duration="8733000" />
+      <workItem from="1602988044547" duration="7315000" />
+      <workItem from="1602996255869" duration="232000" />
+      <workItem from="1602996751334" duration="2126000" />
+      <workItem from="1603006541373" duration="6861000" />
+      <workItem from="1603592884255" duration="6716000" />
+      <workItem from="1603600842532" duration="976000" />
     </task>
     <servers />
   </component>
@@ -543,40 +539,72 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163112000" />
+    <option name="totallyTimeSpent" value="276783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1979638" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22103004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16630901" sideWeight="0.4954751" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4195279" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41944146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58666664" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22424893" sideWeight="0.5045249" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="1361" y="448" width="555" height="197" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4195279" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39932126" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="1361" y="448" width="555" height="197" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32579187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32918552" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24034335" sideWeight="0.4954751" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22424893" sideWeight="0.5045249" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -601,7 +629,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section412/BinarySearch.java</url>
-          <line>41</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -617,6 +645,60 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/offer10/XinSolution10b.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/offer12/XinSolution.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/offer12/XinSolution.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/offer12/XinSolution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/week210/Solution5335.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/offer17/Solution2.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/week211/Solution5544.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/week212/Solution5546.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/todorex/week212/Solution5548.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/todorex/offer4/MySolution.java</url>
           <line>10</line>
@@ -626,377 +708,372 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="44" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="rright" />
-        <watch expression="rleft" />
-        <watch expression="rmid" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer10/XinSolution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="13" />
+        <state relative-caret-position="535">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/SeqQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer11/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3388">
-          <caret line="159" column="17" lean-forward="false" selection-start-line="159" selection-start-column="13" selection-end-line="159" selection-end-column="17" />
+        <state relative-caret-position="-440">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer11/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer11/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <caret line="19" column="5" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section342/LinkedQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer10/XinSolution10b.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="52" column="12" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="52" selection-end-column="12" />
+        <state relative-caret-position="506">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer3/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer10/XinSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="30" column="5" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer11/XinQuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="89" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer11/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer12/XinSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1496">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer12/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="75" column="96" lean-forward="false" selection-start-line="75" selection-start-column="7" selection-end-line="75" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer13/XinSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer13/LeetcodeSolution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer15/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer14/SolutionDongtai.java" />
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="50" column="11" lean-forward="false" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer14/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="36" column="37" lean-forward="true" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer15/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section3/section322/TestSelfList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer15/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="572">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/MySolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer16/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="211">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/jdk8/jdk/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer16/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30360">
-          <caret line="1451" column="16" lean-forward="false" selection-start-line="1451" selection-start-column="16" selection-end-line="1451" selection-end-column="16" />
+        <state relative-caret-position="211">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section412/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer16/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer4/MySolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer15/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="166">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer4/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer20/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="396">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section433/BinaryNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer24/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="352">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/JavaGuide/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/JavaGuide/ListSortDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/JavaGuide/StudentComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/JavaGuide/RongQi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/JavaGuide/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/LeetcodeSolutionB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/LeetCodeSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer22/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+          <caret line="14" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/MySolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/OfferSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer5/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/BinaryNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section434/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/jdk8/jdk/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="800" column="0" lean-forward="false" selection-start-line="800" selection-start-column="0" selection-end-line="800" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer7/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="63" column="56" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="63" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer7/XinSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer9/XinSolution.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer9/BuildQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer25/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer9/BuildStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer25/XinSolution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer16/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="462">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer9/BuildQueue1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer17/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer9/CQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/Solution1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer17/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer17/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="2068">
+          <caret line="94" column="5" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer7/leetcodeSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer17/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="858">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="e#1366#1367#0" expanded="false" />
+            <element signature="e#1421#1422#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer18/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="154">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/reverseDigui.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer18/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="235">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer6/XinSolution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week210/Solution5335.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer8/TreeLinkNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer8/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/BinaryNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/Tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section44/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="644" column="43" lean-forward="false" selection-start-line="644" selection-start-column="43" selection-end-line="644" selection-end-column="43" />
+        <state relative-caret-position="682">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/BinaryNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week210/Solution5536.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="770">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="36" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLNode.java">
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="142" column="23" lean-forward="false" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="233" column="19" lean-forward="false" selection-start-line="233" selection-start-column="19" selection-end-line="233" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week211/Solution5543.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer18/XinSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week211/Solution5545.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk8/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="610" column="0" lean-forward="false" selection-start-line="610" selection-start-column="0" selection-end-line="610" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week211/Solution5544.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/Tree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer14/XinSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week212/Solution5546.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/todorex/dataStructure/section4/section45/AVLTree.java">
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer12/LeetcodeSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4510">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer12/LeetcodeSolution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/offer13/LeetcodeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/todorex/week212/Solution5548.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>

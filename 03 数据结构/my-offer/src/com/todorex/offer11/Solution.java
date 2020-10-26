@@ -22,13 +22,20 @@ public class Solution {
         // j永远为后一个非递减的数组指针
         int j= length-1;
         // middle永远指向中间的值，当旋转数据就是原数组时，返回第1个数字
-        int middle = i;
+        int middle = 0;
+
+        //二分查找循环的条件变了 第一个指针指向的值一定大于第二个指针指向的值
+        //不满足循环条件 就是特例1 旋转0个数字 顺序数组
         while (array[i] >= array[j]) {
+
+            //跳出循环的条件，两个指针相距为1 第二个指针就是值
             if ((j - i) == 1) {
                 middle = j;
                 break;
             }
+
             middle = (j + i) / 2;
+
             // 如果下标i, j, middle 指向的第三个数字相等，就只能顺序查找（这个也需要技巧）
             if (array[middle] == array[i] && array[middle] == array[j]) {
                 return minNumberArray(array, i, j);
@@ -56,8 +63,7 @@ public class Solution {
     public static int minNumberArray(int [] array, int index1, int index2) {
         int result = array[index1];
         for (int i = index1; i < index2-1; i++) {
-            result = array[i];
-            if (result > array[i+1]) {
+            if (array[i] > array[i+1]) {
                 return array[i+1];
             }
         }

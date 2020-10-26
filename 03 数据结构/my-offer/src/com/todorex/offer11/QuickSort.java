@@ -100,7 +100,7 @@ public class QuickSort {
         quickSort(a, 14, 0, 13);
 
         for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
+            System.out.print(a[i]+" ");
         }
 
 

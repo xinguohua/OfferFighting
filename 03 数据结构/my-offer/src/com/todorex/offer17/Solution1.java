@@ -19,8 +19,23 @@ public class Solution1 {
         }
         char[] number = new char[n];
         initCharArray(number);
+        //字符串数组上模拟加法，并返回是否溢出
         while (!increment(number)) {
             printNumber(number);
+        }
+    }
+
+
+
+    /**
+     * 初始化字符数组
+     *
+     * 使其每个字符初始为'0'
+     * @param chars
+     */
+    public void initCharArray(char[] chars) {
+        for (int i = 0; i < chars.length; i++) {
+            chars[i] = '0';
         }
     }
 
@@ -36,20 +51,24 @@ public class Solution1 {
         // 进位数
         int takeOver = 0;
         for (int i = number.length-1; i >= 0; i--) {
-            int sum = number[i] - '0' + takeOver;
+            int nsum = number[i] - '0' + takeOver;
+            //最低位+1
             if (i == number.length-1) {
-                sum++;
+                nsum++;
             }
-            if (sum >= 10) {
+            //进位
+            if (nsum >= 10) {
+                //最高位
                 if (i == 0) {
                     isOverflow = true;
                 } else {
-                    sum -= 10;
+                    //进位后恢复成原来的样本 13--->3 进位1
+                    nsum -= 10;
                     takeOver = 1;
-                    number[i] = (char) ('0' + sum);
+                    number[i] = (char) ('0' + nsum);
                 }
-            } else {
-                number[i] = (char) ('0' + sum);
+            } else { //不进位的情况
+                number[i] = (char) ('0' + nsum);
                 break;
             }
         }
@@ -58,7 +77,6 @@ public class Solution1 {
 
     /**
      * 根据字符串打印出数字
-     * 这个我一会也想出来
      * @param number
      */
     private void printNumber(char[] number) {
@@ -76,16 +94,6 @@ public class Solution1 {
         System.out.println();
     }
 
-    /**
-     * 初始化字符数组
-     *
-     * 使其每个字符初始为'0'
-     * @param chars
-     */
-    public void initCharArray(char[] chars) {
-        for (int i = 0; i < chars.length; i++) {
-            chars[i] = '0';
-        }
-    }
+
 
 }

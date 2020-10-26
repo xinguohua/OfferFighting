@@ -14,22 +14,23 @@
 	* 自己整理常用笔记 00Java基础/Java基础知识框架（整理了String API）   
 
 # 10月计划
-上半月
-* 数据结构（日常）
+
+* 数据结构（完成）
 	* 浙大网课+浙大教材 
 	* Java代码表示数据结构03 数据结构/my-offer/dataStructur
-* Java高级之并发
-下半月
-* 数据库（MySQL+SQL）+刷题  
-* Java高级之虚拟机
+	* http://www.icourse163.org/learn/ZJU-93001?tid=120001&from=study#/learn/content?type=detail&id=473012&cid=501001&replay=true
+
+* Java做题模板总结
+* 数据库（MySQL+SQL）
+=================================
+* Java高并发
+* SSM Springboot雷锋杨 
+* 剑指offer刷题  
 
 
 
-| 时间 | 上午 | 下午 |晚上 |
-|--|--|--|--|
-| 10月上半月| 数据结构 |Java高级之并发 |剑指offer刷题|
-|  10月下半月| 数据库 |Java高级之JVM |剑指offer刷题|
-## Java基础不门做笔记 刷题过程中遇到总结
+
+## Java基础不专门做笔记 刷题过程中遇到总结
 * Java基础部分   
 	* String 数组（后续）
 	* Java基础其余知识
@@ -51,30 +52,41 @@
 
 # 12月计划
 * SSM源码 刷题
-
+* Java高级之JVM
 
 * 练个项目
 # 1 月
 * 投简历
 
-#今日计划
-* 补充  特殊的二叉树 堆 红黑树
-* 剑指offer刷题
 
 
 
 
+# 今日计划
+* 数据结构听课 排序 看书
+* 高并发看书
+* 数据库
 
 
-#明日计划
+# 明日计划
+* 数据结构写模板
+* 数据库
+* 刷题
+* 高并发看书/SSM，SpringBoot预热
 
 * VPN 网关搭环境
 * 改论文（通读一遍）
-* ArrayList排序 compareTo Comparable 接口 
+* ArrayList排序 compareTo Comparable 接口  Arrays的接口 .sort
 * 数组总结 数组和List之间的转换关系
-* 剑指offer解析
-* 
+
+
+
+# 下周比赛前要会的内容
+*  1 Stirng char 的相互转换  Stiring/char Int的相互转换 及Stirng的API DFS解比赛第二题
+*  2 数组排序 ArrayList排序
+
 ===============
 
-数据结构 代码 看视频
-剑指offer 刷题 解析
+==============================刷就完事了没必要看
+* 剑指offer解析
+* 剑指offer 18

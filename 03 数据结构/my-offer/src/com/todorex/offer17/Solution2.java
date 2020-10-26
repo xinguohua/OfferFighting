@@ -17,7 +17,8 @@ public class Solution2 {
             return;
         }
         char[] number = new char[n];
-        print1ToMaxOfNDigitsRecursively(number, n, 0);
+        //固定高位第0位 从高位开始递归
+        DFS(number, n, 0);
 
     }
 
@@ -27,14 +28,18 @@ public class Solution2 {
      * @param length
      * @param index 字符串的第几位
      */
-    public void print1ToMaxOfNDigitsRecursively(char[] number, int length, int index) {
+    public void DFS(char[] number, int length, int index) {
+        //最后一位 n-1位固定后 跳出递归
         if (index > length - 1) {
             printNumber(number);
             return;
         }
+        //从index位出发有哪些邻居
         for (int i = 0; i < 10; i++) {
+            //固定高位第0位 依次固定0-9
             number[index] = (char) (i +'0');
-            print1ToMaxOfNDigitsRecursively(number, length, index + 1);
+            //递归调用
+            DFS(number, length, index + 1);
         }
     }
     /**
@@ -54,5 +59,10 @@ public class Solution2 {
             }
         }
         System.out.println();
+    }
+
+
+    public static void main(String[] args) {
+        new Solution2().print1ToMaxOfNDigits(3);
     }
 }
