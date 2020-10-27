@@ -20,12 +20,12 @@
 	* Java代码表示数据结构03 数据结构/my-offer/dataStructur
 	* http://www.icourse163.org/learn/ZJU-93001?tid=120001&from=study#/learn/content?type=detail&id=473012&cid=501001&replay=true
 
-* Java做题模板总结 结合两个博客
-* 数据库（MySQL+SQL）尚硅谷+CSDN笔记
+* Java做题模板总结 结合两个博客   8：30--10：30
+* 数据库（MySQL+SQL）尚硅谷+CSDN笔记https://editor.csdn.net/md?articleId=106454562  10：30--2：30
 =================================
-* Java高并发 看书
-* SSM Springboot雷锋杨  word
-* 剑指offer刷题  直接刷
+* SSM Springboot雷锋杨  word 2：30--6：00
+* Java高并发 看书 7：00-8：00
+* 剑指offer刷题  直接刷 8：00--11：00
 
 
 
